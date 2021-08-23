@@ -1,0 +1,5 @@
+# Ignore vi editor swap files
+*.swp
+
+# Ignore PyCharm config files
+.idea/
